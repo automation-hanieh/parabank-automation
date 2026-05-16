@@ -1,4 +1,4 @@
-# 🏦 ParaBank Test Automation
+# ParaBank Test Automation
 
 End-to-end automation tests for [ParaBank](https://parabank.parasoft.com) using Java, Selenium WebDriver, and TestNG with Page Object Model (POM).
 
